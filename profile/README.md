@@ -5,7 +5,7 @@ Kenyang is a mobile app that aims to reduce food waste and support communities i
 ## What is Kenyang?
 Every year, millions of tons of food are wasted in restaurants and bakeries due to overproduction or approaching expiration dates. This is a huge problem that goes against efforts to tackle hunger and reduce food waste. Kenyang is here to tackle this problem in a way:
 
-- **Surplus Food Purchase:** Kenyang provides a platform users can buy discounted price surplus food from bakeries and restaurant. This not only helps reduce food waste, but also allows consumers to enjoy food at a more affordable price.
+- **Surplus Food Purchase:** Kenyang provides a platform users can buy discounted price surplus food from food vendors. This not only helps reduce food waste, but also allows consumers to enjoy food at a more affordable price.
   
 - **Food Donation:** Users can purchase surplus food through Kenyang and donate it to the needy. These donations are managed by restaurants or bakeries, ensuring the food reaches those who need it most.
 
@@ -32,9 +32,9 @@ With Kenyang, we aim to reduce food waste, alleviate hunger, and create a more s
   3. The app automatically analyzes the photo to determine the safety of the food.
   4. The analysis results are displayed within seconds, providing information on whether the food is safe for consumption or not.
 
-### Discount Food Sales
+### Food Sales
 
-- Kenyang provides a platform to sell surplus food at discounted prices from various sellers, including restaurants, bakeries, fruit sellers, and vegetable sellers.
+- Kenyang provides a platform to buy surplus food at discounted prices from various sellers, including restaurants, bakeries, fruit sellers, and vegetable sellers.
 - Extensive food categories include:
   - **Rice Dishes:** Various types of delicious rice dishes.
   - **Bread and Cakes:** Fresh bread and a variety of appetizing cakes.
@@ -44,7 +44,7 @@ With Kenyang, we aim to reduce food waste, alleviate hunger, and create a more s
 ### Donation Options
 
 - Kenyang allows users to not only purchase surplus food at a discounted price, but also donate it to those in need.
-- The donation process is managed by the food seller, ensuring the donated food can reach the needy efficiently and safely.
+- The donation process is managed by the food seller.
 
 ### Show Distance Based on Location
 
