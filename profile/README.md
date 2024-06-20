@@ -2,6 +2,18 @@
 
 Kenyang is a mobile app that aims to reduce food waste and support communities in need by utilizing surplus food from restaurants and bakeries. With Kenyang, users can buy excess food at a discounted price or donate it to those in need, thus helping to create a more sustainable and inclusive food system.<br><br>
 
+<img src="https://github.com/Capstone-Kenyang/.github/assets/117462539/2a77a420-21ad-4eb5-ae0e-6aee3760b6a4" width="25%">
+<img src="https://github.com/Capstone-Kenyang/.github/assets/117462539/d838c809-10f0-430d-a270-5247908c9946" width="25%">
+<img src="https://github.com/Capstone-Kenyang/.github/assets/117462539/5cd63265-0f72-450a-b9ba-a7ebdbda362f" width="25%">
+<img src="https://github.com/Capstone-Kenyang/.github/assets/117462539/d58e48bf-447b-4fca-ba14-d111996b60c0" width="25%">
+<img src="https://github.com/Capstone-Kenyang/.github/assets/117462539/8d7ae769-2188-4627-b7f6-e24215770f71" width="25%">
+<img src="https://github.com/Capstone-Kenyang/.github/assets/117462539/05ae8a35-d2cc-4d02-a69f-90f7a1208bab" width="25%">
+<img src="https://github.com/Capstone-Kenyang/.github/assets/117462539/17ff559d-56fb-4a7c-8876-dbb48bb0b8e9" width="25%">
+<img src="https://github.com/Capstone-Kenyang/.github/assets/117462539/4091f17d-dfd6-45e5-9b3b-9195b69f8fa8" width="25%">
+<img src="https://github.com/Capstone-Kenyang/.github/assets/117462539/fc0463dc-cbea-4e59-a461-592a0ce2e1f7" width="25%">
+<img src="https://github.com/Capstone-Kenyang/.github/assets/117462539/35ea0665-3e07-4ef5-aac3-e2669ae5e50a" width="25%">
+
+
 ## What is Kenyang?
 Every year, millions of tons of food are wasted in restaurants and bakeries due to overproduction or approaching expiration dates. This is a huge problem that goes against efforts to tackle hunger and reduce food waste. Kenyang is here to tackle this problem in a way:
 
