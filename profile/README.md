@@ -76,6 +76,45 @@ With Kenyang, we aim to reduce food waste, alleviate hunger, and create a more s
 ### Order List
 
 - Kenyang app provides an order list feature that allows users to view their order history.
-- Users can access details of previous orders, including food purchased, amount paid or donation status.
+- Users can access details of previous orders, including food purchased, amount paid or donation status.<br><br>
 
-## Technologies
+## Technologies Used:
+- ML: TensorFlow Google Colab
+- CC: Google Cloud, Google Storage, Cloud Run
+- MD: Retrofit2, Material 3, Google Play Service Location API, Firebase
+
+## Additional Info
+- Min SDK: API 24
+- Target SDK: API 34
+- Tested with AVD Pixel 7 API 35
+- Tested with real device Realme 5i API 26<br><br>
+
+
+## How to Run The Project
+- Open Android Studio.
+- Go to the Kenyang's MD Repository:
+    - Open [github.com/Capstone-Kenyang/mobile-app](https://github.com/Capstone-Kenyang/mobile-app)
+    - Click the green "Code" button and choose the "HTTPS" clone URL option. This URL will be used in the next step.
+- Import the Project into Android Studio:
+
+  - Using Git (Recommended):
+      - In Android Studio, navigate to File > New > Project from Version Control > Git.
+      - Paste the copied HTTPS clone URL into the "URL" field.
+      - If prompted, provide your GitHub username and password (optional if using public repositories).
+      - Click "Clone." Android Studio will download the project files.
+      - Once complete, choose to either open the project in a new window or the current window.
+        
+  - Without Git:
+      - In Android Studio, navigate to File > New > Import Project.
+      - Browse to the downloaded project folder (typically a ZIP archive extracted from GitHub). Select the project's root directory (usually containing a file named "build.gradle").
+      - Click "Next" and follow any on-screen prompts.
+      - Sync Gradle (Optional):
+
+
+- Run the Project:
+    - Connect an Android Device or Emulator:
+        - Make sure you have a physical Android device connected or an emulator running also make sure to use latest API and Google Play supported Emulator. You can manage these settings in Tools > Device Manager.
+      
+          > **Note**  Make sure your emulator device is logged in with a Google account (check the email in the emulator device to make sure) before running your Android app using Firebase Authentication!
+        - Run the App: Click the "Run" button (usually a green play icon) in the toolbar. Select the appropriate device or emulator from the dropdown menu.
+Android Studio will build and deploy the app to your chosen target.
